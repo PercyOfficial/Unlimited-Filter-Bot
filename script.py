@@ -48,16 +48,16 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @menakalahiru</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name :Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>𝑪𝒓𝒆𝒂𝒕𝒆𝒓 :</b>  @DARKLOVE_OFFICIAL & @Percy_Jackson_4   
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>𝑶𝒖𝒓 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 :</b> @darklovecomplete
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>𝑶𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 :</b> <a href='https://t.me/joinchat/5LooGQGaZW8zMzQ1'>𝑲 𝑫𝒓𝒂𝒎𝒂 𝑪𝒍𝒖𝒃</a> 
 
 """
