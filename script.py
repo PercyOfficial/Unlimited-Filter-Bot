@@ -52,12 +52,10 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name :Filter Bot</b>
-
-⭕️<b>𝑪𝒓𝒆𝒂𝒕𝒆𝒓 :</b>  @DARKLOVE_OFFICIAL & @Percy_Jackson_4   
-
-⭕️<b>𝑶𝒖𝒓 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 :</b> @darklovecomplete
-
-⭕️<b>𝑶𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 :</b> <a href='https://t.me/joinchat/5LooGQGaZW8zMzQ1'>𝑲 𝑫𝒓𝒂𝒎𝒂 𝑪𝒍𝒖𝒃</a> 
-
+    
+    ABOUT_MSG = """
+⭕️<b>My Name : Filter Bot</b>
+⭕️<b>Creater :</b> @DARKLOVE_OFFICIAL @Percy_Jackson_4   
+⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 """
